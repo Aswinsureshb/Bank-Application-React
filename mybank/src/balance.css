@@ -1,0 +1,23 @@
+#transaction {
+    
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+#transaction td, #transaction th {
+    border: 1px solid #f0e7e7;
+    padding: 8px;
+  }
+  
+#transaction tr:nth-child(even){background-color: #f1cfcf;}
+  
+
+  
+#transaction th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    background-color: #989d9b16;
+    color: rgb(15, 15, 15);
+  }
+  
